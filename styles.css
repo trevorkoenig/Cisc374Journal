@@ -1,0 +1,18 @@
+body {
+    background-color:lightskyblue
+}
+hr {
+    background-color:rgb(255, 154, 247);
+    height: 1px;
+    border: none;
+}
+div {
+    margin-left: 2%;
+    margin-bottom: 2em;
+}
+ul {
+    list-style-type: '-  ';
+}
+li {
+    margin-bottom: 5px;
+}
